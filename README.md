@@ -32,7 +32,7 @@ I am a civil engineering graduate from Rashtreeya Vidyalaya College of Engineeri
   <img src="https://img.shields.io/badge/postgis%20-%231572B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tensorflow%20-%231572B6.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/torch%20-%231572B6.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/qgis%20-%231572B6.svg?&style=for-the-badge&logo=qgis&logoColor=green" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Leaflet%20-%231572B6.svg?&style=for-the-badge&logo=leaflet&logoColor=green" />&nbsp;&nbsp;
