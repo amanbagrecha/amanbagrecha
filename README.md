@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aman Bagrecha</h1>
-<h2 align="center"> 👨‍💻 Who am I?</h2>
 
 <p align="center">
   <samp>
@@ -22,23 +21,6 @@ I am a civil engineering graduate from Rashtreeya Vidyalaya College of Engineeri
   </samp>
  
   <br> <br>
-  
-<h2 align="center"> ⚙ Technology Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/django%20-%231572B6.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Openlayers%20-%231572B6.svg?&style=for-the-badge&logo=openlayers&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Geoserver%20-%231572B6.svg?&style=for-the-badge&logo=geoserver&logoColor=green" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/postgis%20-%231572B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/torch%20-%231572B6.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/qgis%20-%231572B6.svg?&style=for-the-badge&logo=qgis&logoColor=green" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Leaflet%20-%231572B6.svg?&style=for-the-badge&logo=leaflet&logoColor=green" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp; 
-
-</p>
 
 
 
@@ -51,17 +33,3 @@ I am a civil engineering graduate from Rashtreeya Vidyalaya College of Engineeri
   <a href="mailto:jainaman588@gmail.com?subject=Hello%20Aman,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
-<h2 align="center">📝 Github Statistics </h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amanbagrecha&show_icons=true&theme=merko" alt="Aman Bagrecha" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-
-  <!--  
-  **amanbagrecha/amanbagrecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-  -->
