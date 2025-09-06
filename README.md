@@ -17,6 +17,7 @@ Take a look at my <a href="https://amanbagrecha.github.io/post">blog</a> where I
 
 ### Talks Conducted
 
+NITK, Karnataka (31-08-2025) | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTjbLuh63tgTX_BntnY9dwdtgTeZY3ZShuUN-AvQBnXGDtMy9OZ3CSo3VjBkTxs3eK_6LmD7EDIzpgx/pub?start=false&loop=false&delayms=3000)
 
 BNMIT, Bangalore (29-03-2025) | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSM8AVp3q8L5h4wtvP-NcaBg4dxKkDZIj1HPXd0AgF8q5A5o4NLc2PMI0AxMOyZH97c0ebAnmRKBH3S/pub?start=false&loop=false&delayms=3000)
 
