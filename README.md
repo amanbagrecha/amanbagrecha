@@ -6,7 +6,7 @@ I care about all things **geospatial and AI**. I regularly write on Quora, tweet
 
 ---
 
-Take a look at my <a href="https://amanbagrecha.github.io/post">blog</a> where I write mostly about geospatial technology! 
+Take a look at my <a href="https://amanbagrecha.github.io/posts/">blog</a> where I write mostly about geospatial technology! 
 
 
 ### Let's Connect
